@@ -10,7 +10,7 @@ function App() {
     children: "",
     smoker: "no",
     region: "northwest",
-    sex: "male"  // Adicionando o campo 'sex' ao estado
+    sex: "male"  
   });
   const [result, setResult] = useState(null);
 
